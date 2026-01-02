@@ -28,6 +28,7 @@ Desktop.ini
 *.temp
 *.log
 *.cache
+tempCodeRunnerFile*
 
 # Environment files
 .env
